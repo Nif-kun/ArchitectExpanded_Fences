@@ -12,17 +12,11 @@
 
   <!-- [CLOSEBOARD GATE] -->
 
-  <CloseboardGateHori.label>Holzwandzauntür(Horizontal)</CloseboardGateHori.label>
-  <CloseboardGateHori.description>Holzzauntür zum Schutz des Grundstücks.</CloseboardGateHori.description>
-  <CloseboardGateHori_Blueprint.label>Holzwandzauntür(Horizontal) (Entwurf)</CloseboardGateHori_Blueprint.label>
-  <CloseboardGateHori_Frame.label>Holzwandzauntür(Horizontal) (im Bau)</CloseboardGateHori_Frame.label>
-  <CloseboardGateHori_Frame.description>Holzzauntür zum Schutz des Grundstücks.</CloseboardGateHori_Frame.description>
-
-  <CloseboardGateVerti.label>Holzwandzauntür(Vertical)</CloseboardGateVerti.label>
-  <CloseboardGateVerti.description>Holzwandzauntür zum Schutz des Grundstücks.</CloseboardGateVerti.description>
-  <CloseboardGateVerti_Blueprint.label>Holzwandzauntür(Vertikal) (Entwurf)</CloseboardGateVerti_Blueprint.label>
-  <CloseboardGateVerti_Frame.label>Holzwandzauntür(Vertikal) (im Bau)</CloseboardGateVerti_Frame.label>
-  <CloseboardGateVerti_Frame.description>Holzwandzauntür zum Schutz des Grundstücks.</CloseboardGateVerti_Frame.description>
+  <CloseboardGate.label>Holzwandzauntür(Horizontal)</CloseboardGate.label>
+  <CloseboardGate.description>Holzzauntür zum Schutz des Grundstücks.</CloseboardGate.description>
+  <CloseboardGate_Blueprint.label>Holzwandzauntür(Horizontal) (Entwurf)</CloseboardGate_Blueprint.label>
+  <CloseboardGate_Frame.label>Holzwandzauntür(Horizontal) (im Bau)</CloseboardGate_Frame.label>
+  <CloseboardGate_Frame.description>Holzzauntür zum Schutz des Grundstücks.</CloseboardGate_Frame.description>
 
 
   <!-- [SOLID FENCE] -->
@@ -35,19 +29,19 @@
 
 
   <!-- [SOLID GATE] -->
-
-  <SolidGateHori.label>Solide Holzzauntür(Horizontal)</SolidGateHori.label>
-  <SolidGateHori.description>Solide Holzwandzauntür zum Schutz des Grundstücks.</SolidGateHori.description>
-  <SolidGateHori_Blueprint.label>Solide Holzwandzauntür(Horizontal) (Entwurf)</SolidGateHori_Blueprint.label>
-  <SolidGateHori_Frame.label>Solide Holzwandzauntür(Horizontal) (im Bau)</SolidGateHori_Frame.label>
-  <SolidGateHori_Frame.description>Solide Holzwandzauntür zum Schutz des Grundstücks.</SolidGateHori_Frame.description>
+<!--
+  <SolidGate.label>Solide Holzzauntür(Horizontal)</SolidGate.label>
+  <SolidGate.description>Solide Holzwandzauntür zum Schutz des Grundstücks.</SolidGate.description>
+  <SolidGate_Blueprint.label>Solide Holzwandzauntür(Horizontal) (Entwurf)</SolidGate_Blueprint.label>
+  <SolidGate_Frame.label>Solide Holzwandzauntür(Horizontal) (im Bau)</SolidGate_Frame.label>
+  <SolidGate_Frame.description>Solide Holzwandzauntür zum Schutz des Grundstücks.</SolidGate_Frame.description>
 
   <SolidGateVerti.label>Solide Holzwandzauntür(Vertikal)</SolidGateVerti.label>
   <SolidGateVerti.description>Solide Holzwandzauntür zum Schutz des Grundstücks.</SolidGateVerti.description>
   <SolidGateVerti_Blueprint.label>Solide Holzwandzauntür(Vertikal) (Entwurf)</SolidGateVerti_Blueprint.label>
   <SolidGateVerti_Frame.label>Solide Holzwandzauntür(Vertikal) (im Bau)</SolidGateVerti_Frame.label>
   <SolidGateVerti_Frame.description>Solide Holzwandzauntür zum Schutz des Grundstücks.</SolidGateVerti_Frame.description>
-
+-->
 
   <!-- [PICKET FENCE] -->
 
@@ -59,19 +53,19 @@
 
 
   <!-- [PICKET GATE] -->
-
-  <PicketGateHori.label>Dekorative Holzzauntür(Horizontal)</PicketGateHori.label>
-  <PicketGateHori.description>Eine dekorative Zauntür, der Ihre grüne Seite des Lebens zur Geltung bringt.</PicketGateHori.description>
-  <PicketGateHori_Blueprint.label>Dekorative Holzzauntür(Horizontal) (Entwurf)</PicketGateHori_Blueprint.label>
-  <PicketGateHori_Frame.label>Dekorative Holzzauntür(Horizontal) (im Bau)</PicketGateHori_Frame.label>
-  <PicketGateHori_Frame.description>Eine dekorative Zauntür, der Ihre grüne Seite des Lebens zur Geltung bringt.</PicketGateHori_Frame.description>
+<!--
+  <PicketGate.label>Dekorative Holzzauntür(Horizontal)</PicketGate.label>
+  <PicketGate.description>Eine dekorative Zauntür, der Ihre grüne Seite des Lebens zur Geltung bringt.</PicketGate.description>
+  <PicketGate_Blueprint.label>Dekorative Holzzauntür(Horizontal) (Entwurf)</PicketGate_Blueprint.label>
+  <PicketGate_Frame.label>Dekorative Holzzauntür(Horizontal) (im Bau)</PicketGate_Frame.label>
+  <PicketGate_Frame.description>Eine dekorative Zauntür, der Ihre grüne Seite des Lebens zur Geltung bringt.</PicketGate_Frame.description>
 
   <PicketGateVerti.label>Dekorative Holzzauntür(Vertikal)</PicketGateVerti.label>
   <PicketGateVerti.description>Eine dekorative Zauntür, der Ihre grüne Seite des Lebens zur Geltung bringt.</PicketGateVerti.description>
   <PicketGateVerti_Blueprint.label>Dekorative Holzwandzauntür(Vertikal) (Entwurf)</PicketGateVerti_Blueprint.label>
   <PicketGateVerti_Frame.label>Dekorative Holzzauntür(Vertikal) (im Bau)</PicketGateVerti_Frame.label>
   <PicketGateVerti_Frame.description>Eine dekorative Zauntür, der Ihre grüne Seite des Lebens zur Geltung bringt.</PicketGateVerti_Frame.description>
-
+-->
 
   <!-- [FARM FENCE] -->
 
@@ -84,17 +78,11 @@
 
   <!-- [FARM GATE] -->
 
-  <FarmGateHori.label>Farmzauntür(Horizontal)</FarmGateHori.label>
-  <FarmGateHori.description>Eine Farmzauntür, die selbst den klügsten Thrumbo zurückhalten kann.</FarmGateHori.description>
-  <FarmGateHori_Blueprint.label>Farmzauntür(Horizontal) (Entwurf)</FarmGateHori_Blueprint.label>
-  <FarmGateHori_Frame.label>Farmzauntür(Horizontal) (im Bau)</FarmGateHori_Frame.label>
-  <FarmGateHori_Frame.description>Eine Farmzauntür, die selbst den klügsten Thrumbo zurückhalten kann.</FarmGateHori_Frame.description>
-
-  <FarmGateVerti.label>Farmzauntür(Vertikal)</FarmGateVerti.label>
-  <FarmGateVerti.description>Eine Farmzauntür, die selbst den klügsten Thrumbo zurückhalten kann.</FarmGateVerti.description>
-  <FarmGateVerti_Blueprint.label>Farm Gate(Vertikal) (Entwurf)</FarmGateVerti_Blueprint.label>
-  <FarmGateVerti_Frame.label>Farm Gate(Vertikal) (im Bau)</FarmGateVerti_Frame.label>
-  <FarmGateVerti_Frame.description>Eine Farmzauntür, die selbst den klügsten Thrumbo zurückhalten kann.</FarmGateVerti_Frame.description>
+  <FarmGate.label>Farmzauntür(Horizontal)</FarmGate.label>
+  <FarmGate.description>Eine Farmzauntür, die selbst den klügsten Thrumbo zurückhalten kann.</FarmGate.description>
+  <FarmGate_Blueprint.label>Farmzauntür(Horizontal) (Entwurf)</FarmGate_Blueprint.label>
+  <FarmGate_Frame.label>Farmzauntür(Horizontal) (im Bau)</FarmGate_Frame.label>
+  <FarmGate_Frame.description>Eine Farmzauntür, die selbst den klügsten Thrumbo zurückhalten kann.</FarmGate_Frame.description>>
 
 
   <!-- [BAR FENCE] -->
@@ -108,17 +96,11 @@
 
   <!-- [BAR GATE] -->
 
-  <BarGateHori.label>Metallstangenzauntür(Horizontal)</BarGateHori.label>
-  <BarGateHori.description>Eine sehr restriktive Zauntür, die verwendet wird, um Land zu teilen ... oder als Gefängnistür.</BarGateHori.description>
-  <BarGateHori_Blueprint.label>Metallstangenzauntür(Horizontal) (Entwurf)</BarGateHori_Blueprint.label>
-  <BarGateHori_Frame.label>Metallstangenzauntür(Horizontal) (im Bau)</BarGateHori_Frame.label>
-  <BarGateHori_Frame.description>Eine sehr restriktive Zauntür, die verwendet wird, um Land zu teilen ... oder als Gefängnistür.</BarGateHori_Frame.description>
-
-  <BarGateVerti.label>Metallstangenzauntür(Vertikal)</BarGateVerti.label>
-  <BarGateVerti.description>Eine sehr restriktive Zauntür, die verwendet wird, um Land zu teilen ... oder als Gefängnistür.</BarGateVerti.description>
-  <BarGateVerti_Blueprint.label>Metallstangenzauntür(Vertikal) (Entwurf)</BarGateVerti_Blueprint.label>
-  <BarGateVerti_Frame.label>Metallstangenzauntür(Vertikal) (im Bau)</BarGateVerti_Frame.label>
-  <BarGateVerti_Frame.description>Eine sehr restriktive Zauntür, die verwendet wird, um Land zu teilen ... oder als Gefängnistür.</BarGateVerti_Frame.description>
+  <BarGate.label>Metallstangenzauntür(Horizontal)</BarGate.label>
+  <BarGate.description>Eine sehr restriktive Zauntür, die verwendet wird, um Land zu teilen ... oder als Gefängnistür.</BarGate.description>
+  <BarGate_Blueprint.label>Metallstangenzauntür(Horizontal) (Entwurf)</BarGate_Blueprint.label>
+  <BarGate_Frame.label>Metallstangenzauntür(Horizontal) (im Bau)</BarGate_Frame.label>
+  <BarGate_Frame.description>Eine sehr restriktive Zauntür, die verwendet wird, um Land zu teilen ... oder als Gefängnistür.</BarGate_Frame.description>
 
 
   <!-- [TALL CHAINLINK FENCE] -->
@@ -132,17 +114,11 @@
 
   <!-- [CHAINLINK GATE] -->
 
-  <ChainlinkGateHori.label>Stahlgitterzauntür(Horizontal)</ChainlinkGateHori.label>
-  <ChainlinkGateHori.description>Eine hohe Stahlgitterzauntür, durch die man leicht hindurchschießen kann.</ChainlinkGateHori.description>
-  <ChainlinkGateHori_Blueprint.label>Stahlgitterzauntür(Horizontal) (Entwurf)</ChainlinkGateHori_Blueprint.label>
-  <ChainlinkGateHori_Frame.label>Stahlgitterzauntür(Horizontal) (im Bau)</ChainlinkGateHori_Frame.label>
-  <ChainlinkGateHori_Frame.description>Eine hohe Stahlgitterzauntür, durch die man leicht hindurchschießen kann.</ChainlinkGateHori_Frame.description>
-
-  <ChainlinkGateVerti.label>Stahlgitterzauntür(Vertikal)</ChainlinkGateVerti.label>
-  <ChainlinkGateVerti.description>Eine hohe Stahlgitterzauntür, durch die man leicht hindurchschießen kann.</ChainlinkGateVerti.description>
-  <ChainlinkGateVerti_Blueprint.label>Stahlgitterzauntür(Vertikal) (Entwurf)</ChainlinkGateVerti_Blueprint.label>
-  <ChainlinkGateVerti_Frame.label>Stahlgitterzauntür(Vertikal) (im Bau)</ChainlinkGateVerti_Frame.label>
-  <ChainlinkGateVerti_Frame.description>Eine hohe Stahlgitterzauntür, durch die man leicht hindurchschießen kann.</ChainlinkGateVerti_Frame.description>
+  <ChainlinkGate.label>Stahlgitterzauntür(Horizontal)</ChainlinkGate.label>
+  <ChainlinkGate.description>Eine hohe Stahlgitterzauntür, durch die man leicht hindurchschießen kann.</ChainlinkGate.description>
+  <ChainlinkGate_Blueprint.label>Stahlgitterzauntür(Horizontal) (Entwurf)</ChainlinkGate_Blueprint.label>
+  <ChainlinkGate_Frame.label>Stahlgitterzauntür(Horizontal) (im Bau)</ChainlinkGate_Frame.label>
+  <ChainlinkGate_Frame.description>Eine hohe Stahlgitterzauntür, durch die man leicht hindurchschießen kann.</ChainlinkGate_Frame.description>
 
 
   <!-- [BRICK FENCE] -->
