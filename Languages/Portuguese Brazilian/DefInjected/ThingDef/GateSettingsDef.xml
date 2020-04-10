@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	
+<ArchitectExpandedGates.label>[AE] Portões</ArchitectExpandedGates.label>
+
+<CloseboardGate.label>Closeboard</CloseboardGate.label>
+
+<FarmGate.label>fazenda</FarmGate.label>
+
+<RoundGate.label>arredondado</RoundGate.label>
+
+<SquareGate.label>quadrado</SquareGate.label>
+		
+<BarGate.label>barra</BarGate.label>
+
+<TallChainlinkGate.label>arame</TallChainlinkGate.label>
+					
+</Defs>
