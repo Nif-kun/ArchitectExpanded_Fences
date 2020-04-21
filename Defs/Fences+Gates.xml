@@ -168,7 +168,7 @@
         </researchPrerequisites>
     </ThingDef>
 
-    <ThingDef ParentName="WoodMetalGate">
+    <ThingDef ParentName="AllMaterialFence">
         <defName>RoundGate</defName>
         <label>Round Gate</label>
         <description>A small top-rounded gate.</description>
@@ -190,7 +190,7 @@
         </researchPrerequisites>
     </ThingDef>
 
-    <ThingDef ParentName="WoodMetalGate">
+    <ThingDef ParentName="AllMaterialFence">
         <defName>SquareGate</defName>
         <label>Square Gate</label>
         <description>A small square gate.</description>
@@ -343,6 +343,26 @@
         <building>
             <blueprintGraphicData>
                 <texPath>Things/Fences/Brick/Brickfence(tall)_blueprint</texPath>
+            </blueprintGraphicData>
+        </building>
+    </ThingDef>
+
+    <ThingDef ParentName="StoneGate">
+        <defName>StoneGate</defName>
+        <label>Stone Gate</label>
+        <description>A fortified stone gate capable of withstanding raids.</description>
+        <costStuffCount>5</costStuffCount>
+        <statBases>
+            <MaxHitPoints>154</MaxHitPoints>
+        </statBases>
+        <fillPercent>1</fillPercent>
+        <graphicData>
+            <texPath>Things/Gates/Stone/StoneGate</texPath>
+        </graphicData>
+        <uiIconPath>Things/Gates/Stone/StoneGate_icon</uiIconPath>
+        <building>
+            <blueprintGraphicData>
+                <texPath>Things/Gates/Stone/StoneGate_blueprint</texPath>
             </blueprintGraphicData>
         </building>
     </ThingDef>

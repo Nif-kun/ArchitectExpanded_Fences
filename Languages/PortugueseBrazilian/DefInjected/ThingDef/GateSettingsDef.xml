@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Defs>
+<LanguageData>
 	
 <ArchitectExpandedGates.label>[AE] Portões</ArchitectExpandedGates.label>
 
-<CloseboardGate.label>Closeboard</CloseboardGate.label>
+<CloseboardGate.label>alta</CloseboardGate.label>
 
 <FarmGate.label>fazenda</FarmGate.label>
 
@@ -15,4 +15,4 @@
 
 <TallChainlinkGate.label>arame</TallChainlinkGate.label>
 					
-</Defs>
+</LanguageData>

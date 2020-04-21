@@ -34,6 +34,11 @@
 							<pos>4</pos>
 							<label>Chainlink</label>
 						</li>
+						<li>
+							<defName>StoneGate</defName>
+							<pos>6</pos>
+							<label>Stone</label>
+						</li>
 				</thingList>
 				<labelCol>
 					<header>Fences</header>

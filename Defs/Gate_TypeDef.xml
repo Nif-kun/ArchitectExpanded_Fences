@@ -62,4 +62,19 @@
         <costStuffCount>4</costStuffCount> 
     </ThingDef>
 
+    <ThingDef ParentName="GateBase" Name="AllMaterialFence" Abstract="True">
+        <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
+        <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+        <statBases>
+            <Flammability>1</Flammability>
+            <WorkToBuild>180</WorkToBuild>
+        </statBases>
+        <stuffCategories>
+            <li>Metallic</li>
+            <li>Woody</li>
+            <li>Stony</li>
+        </stuffCategories>
+        <costStuffCount>4</costStuffCount> 
+    </ThingDef>
+
 </Defs>

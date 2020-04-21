@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Defs>
+<LanguageData>
 
 <ArchitectExpandedFences.label>[AE] Cercas</ArchitectExpandedFences.label>
 
@@ -19,4 +19,4 @@
 					
 <TallBrick.label>tijolo (alta)</TallBrick.label>
 
-</Defs>
+</LanguageData>
